@@ -1,0 +1,751 @@
+2018-09-19 17:27:20 - FIT Generate Virtual Activity from GPX
+2018-09-19 17:27:21 - FileIdMesg - Activity - Type = ACTIVITY
+2018-09-19 17:27:21 - FileIdMesg - Activity - Manufacturer = 1
+2018-09-19 17:27:21 - FileIdMesg - Activity - Product = 2530
+2018-09-19 17:27:21 - FileIdMesg - Activity - SerialNumber = 1
+2018-09-19 17:27:21 - FileIdMesg - Activity - TimeCreated = 2018-09-09 09:00:00.0
+2018-09-19 17:27:21 - DeviceInfoMesg - Timestamp = 2018-09-09 09:00:00.0
+2018-09-19 17:27:21 - EventMesg - Start - Timestamp = 2018-09-09 09:00:00.0
+2018-09-19 17:27:21 - Parsing GPX file - trkpt_list.getLength() = 244
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 0 - elevation = 8.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 1
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 1 - elevation = 7.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 2
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 2 - elevation = 7.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 3
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 3 - elevation = 6.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 4
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 4 - elevation = 6.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 5
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 5 - elevation = 6.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 6
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 6 - elevation = 6.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 7
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 7 - elevation = 5.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 8
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 8 - elevation = 5.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 9
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 9 - elevation = 5.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 10
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 10 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 11
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 11 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 12
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 12 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 13
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 13 - elevation = 7.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 14
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 14 - elevation = 7.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 15
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 15 - elevation = 7.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 16
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 16 - elevation = 7.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 17
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 17 - elevation = 7.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 18
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 18 - elevation = 7.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 19
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 19 - elevation = 7.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 20
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 20 - elevation = 7.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 21
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 21 - elevation = 7.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 22
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 22 - elevation = 7.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 23
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 23 - elevation = 7.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 24
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 24 - elevation = 8.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 25
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 25 - elevation = 7.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 26
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 26 - elevation = 6.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 27
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 27 - elevation = 6.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 28
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 28 - elevation = 6.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 29
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 29 - elevation = 5.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 30
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 30 - elevation = 3.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 31
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 31 - elevation = 4.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 32
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 32 - elevation = 4.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 33
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 33 - elevation = 5.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 34
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 34 - elevation = 5.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 35
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 35 - elevation = 5.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 36
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 36 - elevation = 5.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 37
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 37 - elevation = 6.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 38
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 38 - elevation = 6.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 39
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 39 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 40
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 40 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 41
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 41 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 42
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 42 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 43
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 43 - elevation = 6.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 44
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 44 - elevation = 5.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 45
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 45 - elevation = 4.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 46
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 46 - elevation = 5.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 47
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 47 - elevation = 5.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 48
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 48 - elevation = 5.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 49
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 49 - elevation = 6.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 50
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 50 - elevation = 6.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 51
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 51 - elevation = 7.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 52
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 52 - elevation = 7.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 53
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 53 - elevation = 8.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 54
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 54 - elevation = 8.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 55
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 55 - elevation = 8.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 56
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 56 - elevation = 7.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 57
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 57 - elevation = 10.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 58
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 58 - elevation = 10.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 59
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 59 - elevation = 11.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 60
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 60 - elevation = 11.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 61
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 61 - elevation = 10.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 62
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 62 - elevation = 9.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 63
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 63 - elevation = 8.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 64
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 64 - elevation = 7.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 65
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 65 - elevation = 6.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 66
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 66 - elevation = 5.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 67
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 67 - elevation = 4.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 68
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 68 - elevation = 3.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 69
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 69 - elevation = 3.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 70
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 70 - elevation = 3.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 71
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 71 - elevation = 3.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 72
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 72 - elevation = 3.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 73
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 73 - elevation = 3.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 74
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 74 - elevation = 3.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 75
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 75 - elevation = 3.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 76
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 76 - elevation = 3.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 77
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 77 - elevation = 3.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 78
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 78 - elevation = 3.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 79
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 79 - elevation = 3.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 80
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 80 - elevation = 3.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 81
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 81 - elevation = 3.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 82
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 82 - elevation = 4.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 83
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 83 - elevation = 4.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 84
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 84 - elevation = 4.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 85
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 85 - elevation = 4.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 86
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 86 - elevation = 3.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 87
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 87 - elevation = 3.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 88
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 88 - elevation = 3.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 89
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 89 - elevation = 3.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 90
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 90 - elevation = 3.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 91
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 91 - elevation = 3.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 92
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 92 - elevation = 4.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 93
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 93 - elevation = 4.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 94
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 94 - elevation = 4.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 95
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 95 - elevation = 5.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 96
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 96 - elevation = 6.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 97
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 97 - elevation = 7.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 98
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 98 - elevation = 7.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 99
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 99 - elevation = 6.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 100
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 100 - elevation = 6.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 101
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 101 - elevation = 6.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 102
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 102 - elevation = 6.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 103
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 103 - elevation = 8.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 104
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 104 - elevation = 8.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 105
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 105 - elevation = 6.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 106
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 106 - elevation = 6.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 107
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 107 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 108
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 108 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 109
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 109 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 110
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 110 - elevation = 6.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 111
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 111 - elevation = 6.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 112
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 112 - elevation = 6.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 113
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 113 - elevation = 6.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 114
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 114 - elevation = 7.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 115
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 115 - elevation = 7.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 116
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 116 - elevation = 7.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 117
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 117 - elevation = 8.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 118
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 118 - elevation = 7.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 119
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 119 - elevation = 7.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 120
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 120 - elevation = 7.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 121
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 121 - elevation = 7.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 122
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 122 - elevation = 5.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 123
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 123 - elevation = 5.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 124
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 124 - elevation = 5.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 125
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 125 - elevation = 4.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 126
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 126 - elevation = 4.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 127
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 127 - elevation = 3.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 128
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 128 - elevation = 3.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 129
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 129 - elevation = 3.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 130
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 130 - elevation = 3.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 131
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 131 - elevation = 3.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 132
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 132 - elevation = 3.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 133
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 133 - elevation = 3.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 134
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 134 - elevation = 3.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 135
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 135 - elevation = 2.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 136
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 136 - elevation = 6.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 137
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 137 - elevation = 6.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 138
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 138 - elevation = 6.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 139
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 139 - elevation = 6.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 140
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 140 - elevation = 6.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 141
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 141 - elevation = 5.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 142
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 142 - elevation = 5.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 143
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 143 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 144
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 144 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 145
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 145 - elevation = 6.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 146
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 146 - elevation = 4.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 147
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 147 - elevation = 5.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 148
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 148 - elevation = 4.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 149
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 149 - elevation = 4.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 150
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 150 - elevation = 4.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 151
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 151 - elevation = 7.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 152
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 152 - elevation = 4.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 153
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 153 - elevation = 4.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 154
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 154 - elevation = 4.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 155
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 155 - elevation = 4.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 156
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 156 - elevation = 4.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 157
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 157 - elevation = 4.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 158
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 158 - elevation = 5.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 159
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 159 - elevation = 6.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 160
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 160 - elevation = 6.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 161
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 161 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 162
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 162 - elevation = 6.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 163
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 163 - elevation = 5.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 164
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 164 - elevation = 5.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 165
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 165 - elevation = 4.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 166
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 166 - elevation = 4.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 167
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 167 - elevation = 4.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 168
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 168 - elevation = 4.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 169
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 169 - elevation = 6.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 170
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 170 - elevation = 6.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 171
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 171 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 172
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 172 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 173
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 173 - elevation = 7.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 174
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 174 - elevation = 9.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 175
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 175 - elevation = 9.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 176
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 176 - elevation = 7.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 177
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 177 - elevation = 7.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 178
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 178 - elevation = 8.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 179
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 179 - elevation = 10.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 180
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 180 - elevation = 9.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 181
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 181 - elevation = 9.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 182
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 182 - elevation = 8.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 183
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 183 - elevation = 8.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 184
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 184 - elevation = 8.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 185
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 185 - elevation = 8.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 186
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 186 - elevation = 8.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 187
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 187 - elevation = 8.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 188
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 188 - elevation = 8.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 189
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 189 - elevation = 8.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 190
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 190 - elevation = 8.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 191
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 191 - elevation = 8.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 192
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 192 - elevation = 8.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 193
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 193 - elevation = 8.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 194
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 194 - elevation = 7.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 195
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 195 - elevation = 8.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 196
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 196 - elevation = 9.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 197
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 197 - elevation = 10.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 198
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 198 - elevation = 10.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 199
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 199 - elevation = 8.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 200
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 200 - elevation = 8.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 201
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 201 - elevation = 8.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 202
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 202 - elevation = 8.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 203
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 203 - elevation = 9.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 204
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 204 - elevation = 9.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 205
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 205 - elevation = 9.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 206
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 206 - elevation = 9.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 207
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 207 - elevation = 8.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 208
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 208 - elevation = 8.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 209
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 209 - elevation = 7.9
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 210
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 210 - elevation = 7.8
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 211
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 211 - elevation = 7.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 212
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 212 - elevation = 7.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 213
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 213 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 214
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 214 - elevation = 6.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 215
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 215 - elevation = 6.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 216
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 216 - elevation = 6.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 217
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 217 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 218
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 218 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 219
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 219 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 220
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 220 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 221
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 221 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 222
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 222 - elevation = 6.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 223
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 223 - elevation = 5.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 224
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 224 - elevation = 5.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 225
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 225 - elevation = 7.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 226
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 226 - elevation = 6.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 227
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 227 - elevation = 6.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 228
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 228 - elevation = 6.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 229
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 229 - elevation = 6.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 230
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 230 - elevation = 8.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 231
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 231 - elevation = 8.4
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 232
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 232 - elevation = 9.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 233
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 233 - elevation = 9.5
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 234
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 234 - elevation = 9.2
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 235
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 235 - elevation = 8.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 236
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 236 - elevation = 8.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 237
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 237 - elevation = 7.3
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 238
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 238 - elevation = 7.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 239
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 239 - elevation = 7.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 240
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 240 - elevation = 7.6
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 241
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 241 - elevation = 8.1
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 242
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 242 - elevation = 7.7
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 243
+2018-09-19 17:27:21 - Parsing GPX file - trkpt id = 243 - elevation = 8.0
+2018-09-19 17:27:21 - Stacked_GPX_trkpt_list.size() = 244
+2018-09-19 17:27:21 - Analysing trkpt id = 0 - latitude = 51.03096- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 1 - latitude = 51.03127- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 2 - latitude = 51.0313- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 3 - latitude = 51.03145- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 4 - latitude = 51.03151- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 5 - latitude = 51.03178- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 6 - latitude = 51.03178- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 7 - latitude = 51.03213- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 8 - latitude = 51.03242- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 9 - latitude = 51.03261- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 10 - latitude = 51.0328- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 11 - latitude = 51.03317- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 12 - latitude = 51.03316- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 13 - latitude = 51.03324- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 14 - latitude = 51.03348- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 15 - latitude = 51.03372- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 16 - latitude = 51.03394- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 17 - latitude = 51.03413- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 18 - latitude = 51.03435- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 19 - latitude = 51.03474- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 20 - latitude = 51.03505- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 21 - latitude = 51.0353- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 22 - latitude = 51.03565- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 23 - latitude = 51.03576- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 24 - latitude = 51.03621- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 25 - latitude = 51.03653- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 26 - latitude = 51.03668- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 27 - latitude = 51.03671- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 28 - latitude = 51.03688- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 29 - latitude = 51.03706- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 30 - latitude = 51.03745- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 31 - latitude = 51.03781- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 32 - latitude = 51.03805- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 33 - latitude = 51.03816- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 34 - latitude = 51.03821- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 35 - latitude = 51.03822- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 36 - latitude = 51.03817- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 37 - latitude = 51.03821- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 38 - latitude = 51.03832- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 39 - latitude = 51.03843- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 40 - latitude = 51.03879- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 41 - latitude = 51.03886- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 42 - latitude = 51.03898- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 43 - latitude = 51.03914- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 44 - latitude = 51.03922- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 45 - latitude = 51.03975- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 46 - latitude = 51.03991- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 47 - latitude = 51.04049- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 48 - latitude = 51.04075- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 49 - latitude = 51.04106- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 50 - latitude = 51.04106- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 51 - latitude = 51.04118- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 52 - latitude = 51.0413- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 53 - latitude = 51.04145- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 54 - latitude = 51.04163- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 55 - latitude = 51.04163- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 56 - latitude = 51.0422- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 57 - latitude = 51.04325- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 58 - latitude = 51.04325- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 59 - latitude = 51.04345- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 60 - latitude = 51.0437- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 61 - latitude = 51.04395- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 62 - latitude = 51.0442- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 63 - latitude = 51.04448- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 64 - latitude = 51.04463- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 65 - latitude = 51.04476- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 66 - latitude = 51.04484- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 67 - latitude = 51.04489- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 68 - latitude = 51.04497- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 69 - latitude = 51.04501- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 70 - latitude = 51.04514- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 71 - latitude = 51.04521- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 72 - latitude = 51.04528- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 73 - latitude = 51.04532- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 74 - latitude = 51.04531- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 75 - latitude = 51.04538- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 76 - latitude = 51.04543- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 77 - latitude = 51.0455- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 78 - latitude = 51.0457- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 79 - latitude = 51.04575- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 80 - latitude = 51.0458- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 81 - latitude = 51.04585- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 82 - latitude = 51.04569- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 83 - latitude = 51.04564- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 84 - latitude = 51.04557- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 85 - latitude = 51.0456- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 86 - latitude = 51.04572- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 87 - latitude = 51.04572- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 88 - latitude = 51.04572- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 89 - latitude = 51.04582- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 90 - latitude = 51.04588- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 91 - latitude = 51.04617- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 92 - latitude = 51.04636- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 93 - latitude = 51.04645- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 94 - latitude = 51.04647- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 95 - latitude = 51.04673- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 96 - latitude = 51.0468- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 97 - latitude = 51.04718- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 98 - latitude = 51.04719- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 99 - latitude = 51.04728- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 100 - latitude = 51.04731- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 101 - latitude = 51.04733- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 102 - latitude = 51.04736- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 103 - latitude = 51.04767- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 104 - latitude = 51.04777- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 105 - latitude = 51.04742- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 106 - latitude = 51.04701- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 107 - latitude = 51.04664- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 108 - latitude = 51.04657- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 109 - latitude = 51.04652- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 110 - latitude = 51.04603- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 111 - latitude = 51.04558- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 112 - latitude = 51.04532- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 113 - latitude = 51.0452- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 114 - latitude = 51.04492- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 115 - latitude = 51.04477- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 116 - latitude = 51.04464- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 117 - latitude = 51.04417- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 118 - latitude = 51.04399- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 119 - latitude = 51.04398- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 120 - latitude = 51.04398- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 121 - latitude = 51.04379- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 122 - latitude = 51.04319- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 123 - latitude = 51.04317- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 124 - latitude = 51.04318- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 125 - latitude = 51.04331- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 126 - latitude = 51.0433- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 127 - latitude = 51.04216- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 128 - latitude = 51.04186- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 129 - latitude = 51.04175- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 130 - latitude = 51.04182- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 131 - latitude = 51.04183- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 132 - latitude = 51.04183- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 133 - latitude = 51.04183- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 134 - latitude = 51.04176- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 135 - latitude = 51.0417- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 136 - latitude = 51.04139- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 137 - latitude = 51.04103- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 138 - latitude = 51.04111- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 139 - latitude = 51.04092- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 140 - latitude = 51.0409- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 141 - latitude = 51.04072- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 142 - latitude = 51.04055- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 143 - latitude = 51.04019- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 144 - latitude = 51.04001- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 145 - latitude = 51.03959- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 146 - latitude = 51.03837- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 147 - latitude = 51.03748- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 148 - latitude = 51.03725- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 149 - latitude = 51.03724- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 150 - latitude = 51.0365- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 151 - latitude = 51.03601- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 152 - latitude = 51.03444- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 153 - latitude = 51.03286- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 154 - latitude = 51.03275- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 155 - latitude = 51.03269- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 156 - latitude = 51.03269- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 157 - latitude = 51.03254- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 158 - latitude = 51.0324- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 159 - latitude = 51.03212- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 160 - latitude = 51.03204- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 161 - latitude = 51.03201- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 162 - latitude = 51.03229- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 163 - latitude = 51.03233- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 164 - latitude = 51.0324- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 165 - latitude = 51.03264- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 166 - latitude = 51.03345- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 167 - latitude = 51.03356- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 168 - latitude = 51.03362- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 169 - latitude = 51.03363- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 170 - latitude = 51.03363- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 171 - latitude = 51.03364- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 172 - latitude = 51.03366- elevation = 0.0
+2018-09-19 17:27:21 - Analysing trkpt id = 173 - latitude = 51.03372- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 174 - latitude = 51.03481- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 175 - latitude = 51.0353- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 176 - latitude = 51.03628- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 177 - latitude = 51.03761- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 178 - latitude = 51.03791- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 179 - latitude = 51.03834- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 180 - latitude = 51.03877- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 181 - latitude = 51.03931- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 182 - latitude = 51.03955- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 183 - latitude = 51.03978- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 184 - latitude = 51.03989- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 185 - latitude = 51.04007- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 186 - latitude = 51.04014- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 187 - latitude = 51.04026- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 188 - latitude = 51.04027- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 189 - latitude = 51.04027- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 190 - latitude = 51.04031- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 191 - latitude = 51.04029- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 192 - latitude = 51.04024- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 193 - latitude = 51.0396- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 194 - latitude = 51.03933- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 195 - latitude = 51.03889- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 196 - latitude = 51.03856- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 197 - latitude = 51.03848- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 198 - latitude = 51.03839- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 199 - latitude = 51.03825- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 200 - latitude = 51.0382- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 201 - latitude = 51.03813- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 202 - latitude = 51.03805- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 203 - latitude = 51.03724- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 204 - latitude = 51.03717- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 205 - latitude = 51.03717- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 206 - latitude = 51.03748- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 207 - latitude = 51.0375- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 208 - latitude = 51.03746- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 209 - latitude = 51.03742- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 210 - latitude = 51.03733- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 211 - latitude = 51.03716- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 212 - latitude = 51.03703- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 213 - latitude = 51.0377- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 214 - latitude = 51.03781- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 215 - latitude = 51.03784- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 216 - latitude = 51.03784- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 217 - latitude = 51.03782- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 218 - latitude = 51.03786- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 219 - latitude = 51.03798- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 220 - latitude = 51.03798- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 221 - latitude = 51.03809- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 222 - latitude = 51.03797- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 223 - latitude = 51.03722- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 224 - latitude = 51.03721- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 225 - latitude = 51.0375- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 226 - latitude = 51.03758- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 227 - latitude = 51.03759- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 228 - latitude = 51.03742- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 229 - latitude = 51.03728- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 230 - latitude = 51.03662- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 231 - latitude = 51.0365- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 232 - latitude = 51.03622- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 233 - latitude = 51.03606- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 234 - latitude = 51.03513- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 235 - latitude = 51.03456- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 236 - latitude = 51.03357- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 237 - latitude = 51.03229- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 238 - latitude = 51.03204- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 239 - latitude = 51.0312- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 240 - latitude = 51.03114- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 241 - latitude = 51.03118- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 242 - latitude = 51.03155- elevation = 0.0
+2018-09-19 17:27:22 - Analysing trkpt id = 243 - latitude = 51.03128- elevation = 0.0
+2018-09-19 17:27:22 - EventMesg - Stop_All - Timestamp = 2018-09-09 09:00:00.0
+2018-09-19 17:27:22 - LapMesg - STOP - Timestamp = 2018-09-09 09:00:00.0
+2018-09-19 17:27:22 - LapMesg - STOP - Starttime = 2018-09-09 09:00:00.0
+2018-09-19 17:27:22 - LapMesg - STOP - TotalTimerTime = 0.0
+2018-09-19 17:27:22 - LapMesg - STOP - TotalDistance = 0.0
+2018-09-19 17:27:22 - LapMesg - STOP - AvgSpeed - m/s = NaN
+2018-09-19 17:27:22 - SessionMesg - Timestamp = 2018-09-09 09:00:00.0
+2018-09-19 17:27:22 - SessionMesg - StartTime = 2018-09-09 09:00:00.0
+2018-09-19 17:27:22 - SessionMesg - Sport = CYCLING
+2018-09-19 17:27:22 - ActivityMesg - Timestamp = 2018-09-09 09:00:00.0
